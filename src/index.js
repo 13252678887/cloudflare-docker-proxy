@@ -10,7 +10,7 @@ const routes = {
   "docker.zzb365.top": dockerHub,
   "quay.zzb365.top": "https://quay.io",
   "gcr.zzb365.top": "https://gcr.io",
-  "k8s-gcr.libcuda.so": "https://k8s.gcr.io",
+  "k8s-gcr.zzb365.top": "https://k8s.gcr.io",
   "k8s.zzb365.top": "https://registry.k8s.io",
   "ghcr.zzb365.top": "https://ghcr.io",
   "cloudsmith.zzb365.top": "https://docker.cloudsmith.io",
